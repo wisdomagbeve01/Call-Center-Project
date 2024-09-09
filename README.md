@@ -8,7 +8,7 @@
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results)
-- [Key Insights and Recommendations](key-insights-and-recommendations)
+- [Key Insights & Recommendations](key-insights-and-recommendations)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -86,7 +86,7 @@ EDA involved exploring the call center data to answer questions, such as:
 
 **7. Customer Sentiment and Channel Analysis:** Although the call center handled the highest proportion of calls, the overall customer sentiment was negative, particularly in regions like Los Angeles and Baltimore. This suggests potential issues with service quality or the complexity of issues being addressed through this channel.
 
-## Key Insights and Recommendations
+## Key Insights & Recommendations
 
 **1. Staffing Adjustments:** With the highest call volumes occurring in Los Angeles (3,631 calls) and Texas (3,572 calls), and peak periods during mid-months, it's recommended to adjust staffing levels to handle these surges more efficiently. Additional resources should also be allocated to regions with consistently high call volumes.
 
