@@ -17,6 +17,10 @@
 
 This section focuses on evaluating the performance and efficiency of a call center. By analyzing key metrics such as average response times, customer sentiment, and call volumes across different communication channels, the goal is to identify areas for operational improvement. Data insights are drawn using Excel for data cleaning and pivot tables, helping to visualize patterns and trends. Recommendations for optimizing service levels and enhancing the customer experience are provided based on the findings.
 
+<img width="1241" alt="dashboard" src="https://github.com/user-attachments/assets/c2d3894d-6a86-4e5e-a268-7a850046c601">
+
+
+
 ## Data Sources
 
 **Call Center Data:** The primary dataset used for this analysis is the "call_center.csv" file, which contains detailed records of customer interactions. The dataset includes fields such as call timestamps, agent IDs, customer sentiment ratings, call duration, resolution time, and the communication channel used (call center, email, chatbot, etc.). This data is essential for understanding call center performance and identifying trends in customer service.
@@ -50,9 +54,12 @@ This section focuses on evaluating the performance and efficiency of a call cent
 
 EDA involved exploring the call center data to answer questions, such as: 
 1. What is the total number of inbound calls?
+<img width="712" alt="Screenshot 2024-09-08 at 7 14 40 PM" src="https://github.com/user-attachments/assets/9bfe82d7-4e09-4705-8b11-6c331c6ce7ac">
+
 2. How does customer sentiment vary by call type or channel?
-3. What are the most common reasons for call escalation or call-back requests?
-4. Are there any significant differences in call volume or resolution times between different agents or teams?
+
+4. What are the most common reasons for call escalation or call-back requests?
+5. Are there any significant differences in call volume or resolution times between different agents or teams?
 
 ## Data Analysis
 
@@ -66,7 +73,9 @@ EDA involved exploring the call center data to answer questions, such as:
 
 **5. Sentiment Analysis:** Evaluated customer sentiment ratings across different call types and channels using box plots and scatter plots.
 
-**6. Visualization of Key Metrics:** Developed histograms and pie charts to illustrate call duration distribution and call type proportions.
+**6. Visualization of Key Metrics:** Developed donut charts to illustrate call duration distribution and call type proportions.
+<img width="1198" alt="Screenshot 2024-09-08 at 7 18 20 PM" src="https://github.com/user-attachments/assets/3592637e-5764-481b-be12-5b1b83d46fb6">
+
 
 **7. Actionable Recommendations:** Provided recommendations for optimizing operations based on the analysis, such as staffing adjustments and addressing common issues.
 
@@ -77,6 +86,7 @@ EDA involved exploring the call center data to answer questions, such as:
 **2. Call Sentiments:** The analysis showed that negative sentiments were the most frequent among all calls. Los Angeles received the highest negative sentiments among the call centers, followed by Baltimore. This highlights potential issues with customer service quality in these regions.
 
 **3. Top Call Reasons:** The most common reason for calls was related to billing questions, indicating a frequent need for clarity or resolution in this area.
+<img width="835" alt="Screenshot 2024-09-08 at 7 19 28 PM" src="https://github.com/user-attachments/assets/654897bb-13a6-4b02-b213-c18b6fe24eba">
 
 **4. Call Response Times:** Most calls were answered within the Service Level Agreement (SLA), showing a general adherence to expected response times.
 
