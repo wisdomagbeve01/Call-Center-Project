@@ -8,7 +8,6 @@
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results)
-- [Key Insights & Recommendations](key-insights-and-recommendations)
 - [Limitations](#limitations)
 - [References](#references)
 
