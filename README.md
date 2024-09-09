@@ -95,6 +95,7 @@ EDA involved exploring the call center data to answer questions, such as:
 **6. Call Channels:** A breakdown of the communication channels showed that 32% of total calls were handled via the call center, 25% through the chatbot, 23% via email, and 20% via the web. This distribution highlights the importance of maintaining and optimizing multiple channels to handle customer inquiries effectively.
 
 **7. Customer Sentiment and Channel Analysis:** Although the call center handled the highest proportion of calls, the overall customer sentiment was negative, particularly in regions like Los Angeles and Baltimore. This suggests potential issues with service quality or the complexity of issues being addressed through this channel.
+<img width="852" alt="Screenshot 2024-09-08 at 7 22 17 PM" src="https://github.com/user-attachments/assets/04a5bb4e-2721-4db7-a86d-3c9a44a079c4">
 
 ## Recommendations
 
@@ -105,6 +106,7 @@ EDA involved exploring the call center data to answer questions, such as:
 **3. Billing Procedure Improvements:** Billing questions were the most common reason for calls, suggesting that the current billing system or communication around billing may need improvement. Streamlining the billing process and providing clearer instructions or self-service options could reduce the number of calls related to this issue.
 
 **4. Response Time Optimization:** Although most calls were handled within the Service Level Agreement (SLA), there may be opportunities to improve response times during peak periods to maintain high performance. Monitoring response times more closely in high-volume regions like California and Texas could prevent future delays.
+<img width="863" alt="Screenshot 2024-09-08 at 7 26 17 PM" src="https://github.com/user-attachments/assets/b2dc6213-e08d-43db-8c44-e1e04ee7a222">
 
 **5. Channel Optimization:** The majority of calls (32%) were handled by the call center, but given the high negative sentiment, improving the call center’s performance is critical. Exploring ways to optimize other channels like the chatbot (25%) and email (23%) could reduce the load on the call center, improving overall efficiency and customer experience.
 
