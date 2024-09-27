@@ -1,4 +1,5 @@
 # Call Center Analysis
+<img src="https://getvoip.com/uploads/Call-Center-Analytics-1024x594.png" alt="MasterHead" width="800"/>
 
 ## Table of Contents
 - [Project Overview](#project-overview)
